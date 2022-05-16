@@ -1,0 +1,25 @@
+.redd{
+
+  Color:green;
+  font-size: 20px;
+  text-align: center;
+  text-decoration: none;
+  border: 2px solid transparent;
+  font-weight: bold;
+  padding:  100px;
+  border-radius:0px
+}
+.col-sm p{
+
+font-size: 20px;
+margin-bottom: 10px;
+
+
+}
+.dod{
+  margin-top: 140px;
+
+}
+.form-group label{
+  border-radius: 30px;
+}
