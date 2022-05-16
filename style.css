@@ -1,25 +1,24 @@
-.redd{
+.rrr{
 
-  Color:green;
-  font-size: 20px;
-  text-align: center;
+  height: 100vh;
+  width: 100%;
+  background-size: contain;
+}
+img{
+  padding-top: 180px;
+  padding-bottom: 0px;
+}
+p{
+  font-size: 29px;
+  margin-bottom: 0px;
+  text-align: left;
+  letter-spacing: none;
+}
+.fff{
+  color: white;
   text-decoration: none;
-  border: 2px solid transparent;
+  border: 10px  transparent;
   font-weight: bold;
-  padding:  100px;
-  border-radius:0px
-}
-.col-sm p{
-
-font-size: 20px;
-margin-bottom: 10px;
-
-
-}
-.dod{
-  margin-top: 140px;
-
-}
-.form-group label{
-  border-radius: 30px;
+  margin-top: 20px;
+  position: absolute;
 }
