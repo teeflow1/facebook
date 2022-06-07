@@ -1,9 +1,7 @@
 /* styling of the body*/
-body{
+.section{
   background-color: #f2f2f2;
 }
-
-
 
 /* first side of the grid*/
 .container{
@@ -29,6 +27,8 @@ body{
 .text{
   font-weight: bold;
 }
+
+
 /* the second grid styling*/
 .input-tag input{
   width: 100%;
@@ -62,4 +62,16 @@ body{
   color: #000;
   font-weight: bold;
 
+}
+
+/* second section styling */
+.first-link{
+  display: inline-block;
+  margin-top: 35px;
+  padding: 8px 8px;
+}
+.first-link a{
+  color: #000;
+  font-size: 13px;
+  font-weight: lighter;
 }
