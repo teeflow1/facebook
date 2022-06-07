@@ -1,31 +1,65 @@
-p{
-  font-size: 22px;
-  font-style: oblique;
+/* styling of the body*/
+body{
+  background-color: #f2f2f2;
 }
-img{
-  padding-top: 160px;
+
+
+
+/* first side of the grid*/
+.container{
+  padding: 0px;
+  margin: 0px;
+}
+.col-sm img{
+  margin-top: 30%;
+  width: 300px;
+  margin-left: 20%;
+}
+.col-sm h4{
+  margin-left: 26%;
+  font-size: 27px;
+  font-family: sans-serif;
 
 }
-.ggg{
-  border: 2px; solid;
-  border-radius: 30px;
-
+.card{
+  margin-top: 24%;
+  margin-left: 15%;
+  border-radius: 12px;
 }
-.goood{
-  width: 100%
+.text{
+  font-weight: bold;
 }
-.ee{
-  margin-top: 170px;
-  text-align:center;
-}
-.ee a{
-
-  color: black;
-
-}
-.bba{
-
+/* the second grid styling*/
+.input-tag input{
   width: 100%;
-  position: relative;
+  margin-top: 16px;
+  border-radius: 6px;
+  height: 50px;
+}
+.btn{
+  margin-top: 15px;
+  border-radius: 6px;
+  background-color:  #1a75ff;
+
+}
+.fgt-pwrd{
+  text-align: center;
+  margin-top: 10px;
+  font-size: 15px;
+  font-weight: normal;
+}
+.create{
+  text-align: center;
+  margin-top: 14px;
+}
+.down-text{
+  margin-top: 23px;
+  margin-left: 30px;
+  text-align: center;
+  font-size: 14px;
+}
+.down-text a{
+  color: #000;
+  font-weight: bold;
 
 }
